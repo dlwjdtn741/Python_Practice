@@ -29,3 +29,5 @@ while player == False :
         
     player = False
     computer = t[randint(0,2)]
+    
+    # https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/
